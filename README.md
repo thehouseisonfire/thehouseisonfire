@@ -33,14 +33,17 @@ Daily driving **Arch Linux + Hyprland**.
 ![Rust](https://img.shields.io/badge/Rust-0D1117?style=for-the-badge\&logo=rust\&logoColor=DEA584)
 ![Tokio](https://img.shields.io/badge/Tokio-0D1117?style=for-the-badge\&logo=tokio\&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-0D1117?style=for-the-badge\&logo=cplusplus\&logoColor=00599C)
-![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge\&logo=typescript\&logoColor=3178C6)
+![MQTT](https://img.shields.io/badge/MQTT-0D1117?style=for-the-badge\&logo=mqtt\&logoColor=660066)
 
 ![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-0D1117?style=for-the-badge\&logo=react\&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge\&logo=nextdotjs\&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-0D1117?style=for-the-badge\&logo=vuedotjs\&logoColor=4FC08D)
 ![TanStack](https://img.shields.io/badge/TanStack-0D1117?style=for-the-badge\&logo=tanstack\&logoColor=FF4154)
+![React Native](https://img.shields.io/badge/React_Native-0D1117?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-0D1117?style=for-the-badge&logo=expo&logoColor=FFFFFF)
+![Vue.js](https://img.shields.io/badge/Vue.js-0D1117?style=for-the-badge\&logo=vuedotjs\&logoColor=4FC08D)
+![Nuxt](https://img.shields.io/badge/Nuxt-0D1117?style=for-the-badge&logo=nuxt&logoColor=00DC82)
 
+![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge\&logo=typescript\&logoColor=3178C6)
 ![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge\&logo=nodedotjs\&logoColor=5FA04E)
 ![Bun](https://img.shields.io/badge/Bun-0D1117?style=for-the-badge\&logo=bun\&logoColor=FBF0DF)
 
@@ -49,9 +52,11 @@ Daily driving **Arch Linux + Hyprland**.
 ![Hyprland](https://img.shields.io/badge/Hyprland-0D1117?style=for-the-badge\&logo=hyprland\&logoColor=58E1FF)
 ![Fish Shell](https://img.shields.io/badge/Fish-0D1117?style=for-the-badge\&logo=fishshell\&logoColor=34C534)
 ![Neovim](https://img.shields.io/badge/Neovim-0D1117?style=for-the-badge\&logo=neovim\&logoColor=57A143)
-![Alacritty](https://img.shields.io/badge/Alacritty-0D1117?style=for-the-badge\&logo=alacritty\&logoColor=F46D01)
 ![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge\&logo=git\&logoColor=F05032)
-![MQTT](https://img.shields.io/badge/MQTT-0D1117?style=for-the-badge\&logo=mqtt\&logoColor=660066)
+
+![Codeforces](https://img.shields.io/badge/Codeforces-0D1117?style=for-the-badge&logo=codeforces&logoColor=1F8ACB)
+![CSES](https://img.shields.io/badge/CSES-0D1117?style=for-the-badge)
+![beecrowd](https://img.shields.io/badge/beecrowd-0D1117?style=for-the-badge)
 
 </div>
 
