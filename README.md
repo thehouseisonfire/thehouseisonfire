@@ -2,7 +2,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=19&pause=1100&color=39D353&center=true&vCenter=true&width=650&lines=Rust+%C2%B7+systems+%C2%B7+performance;MQTT+%C2%B7+protocols+%C2%B7+networking;React+%C2%B7+Vue+%C2%B7+TypeScript;Arch+Linux+%C2%B7+Hyprland+%C2%B7+Fish" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=19&pause=1100&color=39D353&center=true&vCenter=true&width=650&lines=Rust+%C2%B7+systems+%C2%B7+performance;MQTT+%C2%B7+clients+%C2%B7+networking;React+%C2%B7+Vue+%C2%B7+TypeScript;C%2B%2B+%C2%B7+Codeforces+%C2%B7+CSES;Arch+Linux+%C2%B7+Hyprland+%C2%B7+Neovim" alt="Typing SVG" />
 
 </div>
 
