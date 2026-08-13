@@ -31,9 +31,9 @@ Daily driving **Arch Linux + Hyprland**.
 ### Stack
 
 ![Rust](https://img.shields.io/badge/Rust-0D1117?style=for-the-badge\&logo=rust\&logoColor=DEA584)
-![C++](https://img.shields.io/badge/C++-0D1117?style=for-the-badge\&logo=cplusplus\&logoColor=00599C)
-![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge\&logo=python\&logoColor=3776AB)
 ![Tokio](https://img.shields.io/badge/Tokio-0D1117?style=for-the-badge\&logo=tokio\&logoColor=white)
+![C++](https://img.shields.io/badge/C++-0D1117?style=for-the-badge\&logo=cplusplus\&logoColor=00599C)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge\&logo=python\&logoColor=306998)
 ![MQTT](https://img.shields.io/badge/MQTT-0D1117?style=for-the-badge\&logo=mqtt\&logoColor=660066)
 
 ![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge\&logo=react\&logoColor=61DAFB)
