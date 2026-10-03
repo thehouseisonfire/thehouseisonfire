@@ -18,7 +18,7 @@ Currently working extensively with the **MQTT ecosystem in Rust**.
 
 Over three years of experience building for the web with **Node, React and Vue**.
 
-**Competitive programmer** with multiple top 3 finishes.
+**Competitive programmer** with multiple top 3 finishes and a gold medal.
 
 Daily driving **Arch Linux + Hyprland**.
 
