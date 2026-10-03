@@ -16,7 +16,7 @@ Interested in **systems & network programming, full stack development, and compe
 
 Currently working extensively with the **MQTT ecosystem in Rust**.
 
-Over two years of experience building for the web with **Node, React and Vue**.
+Over three years of experience building for the web with **Node, React and Vue**.
 
 **Competitive programmer** with multiple top 3 finishes.
 
